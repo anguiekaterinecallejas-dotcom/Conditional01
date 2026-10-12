@@ -1,0 +1,8 @@
+{
+  "name": "Conditionals Safari Academy",
+  "description": "Gamified A2 EFL grammar activity for learning Zero and First Conditionals with animated animals, sound effects, and progressive levels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
